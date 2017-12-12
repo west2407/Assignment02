@@ -95,6 +95,10 @@ main {
   font-size: 17px;
 }
 
+.clear {
+  clear: both;
+}
+
 .logo {
   color: #fff;
   font-weight: bold;
@@ -116,8 +120,8 @@ header {
   height: 450px;
   width: 800px;
   background: url(../images/header_bg.jpg) no-repeat center top rgb(134,141,157);
-  background-size: 100%;
- text-align: center;
+  background-size: 102%;
+  text-align: center;
 
 }
 
@@ -130,7 +134,7 @@ blockquote {
   background: url(../images/testimonial_bg.jpg) no-repeat center top rgb(134,141,157);
   font-size: 20px;
   padding: 60px  180px;
-margin: 0px;
+ margin: 0px;
  text-align: center;
 }
 
